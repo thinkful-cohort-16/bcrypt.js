@@ -248,4 +248,4 @@ which is itself based on [javascript-bcrypt](http://code.google.com/p/javascript
 
 License
 -------
-New-BSD / MIT ([see](https://github.com/dcodeIO/bcrypt.js/blob/master/LICENSE))
+New-BSD / MIT ([see](https://github.com/dcodeIO/bcrypt.js/blob/master/LICENSE)) 
